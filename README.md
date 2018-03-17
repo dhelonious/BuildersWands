@@ -86,7 +86,6 @@ This class creates a wand tool and binds a command for obtaining it.
 | InitModes | *cPlayer* Player<br>*table* Modes | Adds the given modes to the wand. Modes have to be given in the format ModeName:ModeValue. |
 | GetMode | | *integer* Mode | Returns the current mode of the wand. |
 | NextMode | *cPlayer* Player | | Cycles the wand modes. |
-dd
 
 ## Example
 
