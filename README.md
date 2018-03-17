@@ -1,4 +1,4 @@
-This plugin provides a collection of tools, which make building more effective or specialiced. The latter is useful when the client uses a resource pack, e.g. Conquest.
+This plugin provides a collection of tools, which make building more effective or specialized. The latter is useful when the client uses a resource pack, e.g. Conquest.
 
 # General Commands #
 
